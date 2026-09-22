@@ -1,0 +1,18 @@
+# Codex/agent instructions and state
+AGENTS.md
+.agents/
+.codex/
+
+# Local environments and downloaded runtime data
+.venv/
+venv/
+.nltk_data/
+
+# Notebook, Python, and OS-generated files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# Temporary output
+tmp/
